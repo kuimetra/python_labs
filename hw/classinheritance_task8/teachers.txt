@@ -1,0 +1,6 @@
+T Kevin Johnston 01.04.1993 4859632 M 2
+T Maya Trejo 18.02.1989 1896523 F 8
+AP Anessa Tucker 17.12.1955 2174590 F 21 candidate_of_sciences
+FP Tyler Joseph 23.08.1980 5896231 M 16 1
+T Stephanie Lee 16.02.1988 1203695 F 6
+AP Brian Banksy 26.11.1969 4712956 M 12 doctor_of_sciences
