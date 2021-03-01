@@ -9,7 +9,7 @@ def get_encrypted_text():
     encrypted_text_scope.delete("1.0", END)
     if file_name:
         try:
-            with open(f"{file_name}", "r", encoding="cp1252") as file:
+            with open(f"{file_name}", "r", encoding="utf-8-sig") as file:
                 global encrypted_text
                 encrypted_text = file.read()
         except FileNotFoundError:
