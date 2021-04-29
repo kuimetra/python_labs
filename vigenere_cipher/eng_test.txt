@@ -1,0 +1,5 @@
+The GET requests that return a collection of
+resources can be extremely expensive and 
+difficult to manage for very large 
+collections. Like web applications, web
+services can choose to paginate collections.
